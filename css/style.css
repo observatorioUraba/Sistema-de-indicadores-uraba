@@ -17,11 +17,11 @@ body {
 
 /* Header */
 header {
-    background: #3A5795; /* Un azul corporativo, puedes cambiarlo */
+    background: #87b13d; /* Verde institucional */
     color: #fff;
     padding-top: 30px;
     min-height: 70px;
-    border-bottom: #072C6E 3px solid;
+    border-bottom: #87b13d 3px solid;
 }
 
 header h1 {
@@ -75,12 +75,12 @@ main section {
 }
 
 main h2, main h3 {
-    color: #3A5795;
+    color: #87b13d;
 }
 
 /* Hero Section (Página de Inicio) */
 #hero {
-    background: #072C6E; /* Azul más oscuro */
+    background: #87b13d; /* Azul más oscuro */
     color: #fff;
     text-align: center;
     padding: 60px 0;
@@ -179,7 +179,7 @@ main h2, main h3 {
     margin-bottom: 10px;
 }
 .info-contacto strong {
-    color: #3A5795;
+    color: #87b13d; /* Verde institucional */
 }
 
 /* Formulario de Contacto (si se usa) */
@@ -206,7 +206,7 @@ main h2, main h3 {
 
 /* Footer */
 footer {
-    background: #333;
+    background: #87b13d;
     color: #fff;
     text-align: center;
     padding: 20px 0;
